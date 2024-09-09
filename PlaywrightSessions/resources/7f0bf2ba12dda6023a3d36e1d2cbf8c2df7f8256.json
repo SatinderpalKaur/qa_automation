@@ -1,0 +1,9 @@
+{
+  "loginInAgain": "Login In Again",
+  "logoutPromptTitle": "Confirm Logout",
+  "logoutPromptMessage": "Are you sure you want to logout?",
+  "promptMessage": "Are you still there? Click here to stay logged in.",
+  "sessionTimeout": "Session Timeout!",
+  "sessionTimeoutDescription": "You have been logged out due to inactivity.",
+  "stayLoggedIn": "Stay Logged In"
+}
