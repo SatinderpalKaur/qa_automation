@@ -12,6 +12,7 @@ public class PlaywrightBasics {
 Playwright playwright = Playwright.create();
 Browser browser=playwright.webkit().launch(new BrowserType.LaunchOptions().setHeadless(false));
 Page page=browser.newPage();
+		
 
 page.navigate("https://www.saucedemo.com/inventory.html");
   page.navigate("https://www.saucedemo.com/?/inventory.html");
